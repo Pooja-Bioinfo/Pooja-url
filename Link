@@ -1,2 +1,4 @@
 ##checking whether the C compiler works... no
 https://superuser.com/questions/1248542/checking-whether-the-c-compiler-works-no
+####loadGSC: Load a gene set collection
+https://www.rdocumentation.org/packages/piano/versions/1.12.0/topics/loadGSC
